@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#015548</color>
+    <color name="colorPrimaryDark">#015548</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="buttoncolor">#A8000000</color>
+    <color name="successgreen">#00C853</color>
+    <color name="failurered">#FF0000</color>
+    <color name="RecyclerViewBackground">#D6D6D6</color>
+    <color name = "couponPurple">#3606b6</color>
+</resources>

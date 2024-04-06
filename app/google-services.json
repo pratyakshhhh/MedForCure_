@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "proj_number",
+    "firebase_url": "yourLink",
+    "project_id": "yourid",
+    "storage_bucket": "yourbucket"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "yours",
+        "android_client_info": {
+          "package_name": "com.example.MedforCure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "yours",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "yours"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "yours",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
